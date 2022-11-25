@@ -1,0 +1,4 @@
+json5==0.9.10
+telegram-send==0.34
+python-dotenv==0.16.0
+etherscan-python==2.1.0
