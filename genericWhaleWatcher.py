@@ -8,7 +8,7 @@ from datetime import datetime
 
 """
     whaleWatcher.py
-    Given an address this script will pull the most recent ERC-20 token transactions and send them to a desired discord  
+    Given an address this script will pull the most recent ERC-20 token transactions and send them to a desired telegram  
 """
 
 # GLOBAL VARIABLES
